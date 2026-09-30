@@ -1,0 +1,11 @@
+# my first ever Code/Program i made
+# simple-calculator
+
+operator = input("What operator do you want (+ - × /): ")
+
+num1 = float(input("Enter number: ")
+num2 = float(input("Enter number: ")
+
+if (operator == /):
+total = num1 / num2
+print(f"Answer is: {total}")
